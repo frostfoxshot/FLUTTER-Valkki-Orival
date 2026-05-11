@@ -13,7 +13,7 @@ class ValkkiApp extends StatelessWidget {
       title: 'Välkki-Örival',
       theme: ThemeData(
         useMaterial3: true,
-        colorSchemeSeed: Colors.indigo,
+        colorSchemeSeed: Colors.red,
         brightness: Brightness.light,
       ),
       darkTheme: ThemeData(
