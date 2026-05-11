@@ -1,0 +1,1501 @@
+[
+    {
+      "word": "Välkki-Örival",
+      "pos": "Language Name",
+      "meaning": "Name of this constructed language. “Välkki” denotes brightness; “Örival” means harmony.",
+      "pron": "val-kee or-ee-val",
+      "ipa": "/ˈvæl.ki ˈø.ɹi.val/",
+      "nsfw": false
+    },
+    {
+      "word": "jś",
+      "pos": "Verb",
+      "meaning": "Linking verb meaning “is / am / are.” Used to connect a subject with its complement.",
+      "pron": "yeizz",
+      "ipa": "/jʃ/ — identical across dialects",
+      "nsfw": false
+    },
+    {
+      "word": "nä",
+      "pos": "Pronoun",
+      "meaning": "First-person singular — “I / me.”",
+      "pron": "nah",
+      "ipa": "/nɑː/",
+      "nsfw": false
+    },
+    {
+      "word": "malf",
+      "pos": "Pronoun",
+      "meaning": "Man / he / guy / masculine person.",
+      "pron": "malf",
+      "ipa": "/malf/",
+      "nsfw": false
+    },
+    {
+      "word": "wôlt",
+      "pos": "Pronoun",
+      "meaning": "Woman / she / girl / feminine person.",
+      "pron": "walt",
+      "ipa": "/woːlt/ (formal) /wolt/ (casual, Häen dialect)",
+      "nsfw": false
+    },
+    {
+      "word": "frimalf",
+      "pos": "Noun",
+      "meaning": "Boyfriend / male romantic partner.",
+      "pron": "free-malff",
+      "ipa": "/friː.malf/",
+      "nsfw": false
+    },
+    {
+      "word": "friwolt",
+      "pos": "Noun",
+      "meaning": "Girlfriend / female romantic partner.",
+      "pron": "free-walt",
+      "ipa": "/friː.wɔlt/",
+      "nsfw": false
+    },
+    {
+      "word": "säe",
+      "pos": "Pronoun",
+      "meaning": "They / them / you (plural). Can also indicate gender-neutral or mixed groups.",
+      "pron": "sah-eh",
+      "ipa": "/sɑː.eɪ/",
+      "nsfw": false
+    },
+    {
+      "word": "oöshkëy",
+      "pos": "Pronoun",
+      "meaning": "We / us. Collective or inclusive plural.",
+      "pron": "oosh-kay",
+      "ipa": "/uːʃ.keɪ/ (Häen: /ʊʃ.kiː/)",
+      "nsfw": false
+    },
+    {
+      "word": "hai-ëe",
+      "pos": "Greeting",
+      "meaning": "Hello / Hi. Informal, universal greeting.",
+      "pron": "hi-ee",
+      "ipa": "/haɪ.eː/",
+      "nsfw": false
+    },
+    {
+      "word": "wïeder-luft",
+      "pos": "Greeting",
+      "meaning": "Goodbye / Farewell. Literally “again-air,” implying meeting again.",
+      "pron": "vee-der luft",
+      "ipa": "/viː.dɛr lʊft/",
+      "nsfw": false
+    },
+    {
+      "word": "däi-dën",
+      "pos": "Adjective / Phrase",
+      "meaning": "Describes feeling romantically flustered, attracted, or love-struck.",
+      "pron": "die den",
+      "ipa": "/daɪ.dɛn/ (Häen shortens vowels: /daɪ.dn̩/)",
+      "nsfw": false
+    },
+    {
+      "word": "wee-rär",
+      "pos": "Phrase",
+      "meaning": "Love you. Affectionate or casual expression of love.",
+      "pron": "wee rahr",
+      "ipa": "/wiː.rɑːr/",
+      "nsfw": false
+    },
+    {
+      "word": "nini",
+      "pos": "Phrase / Greeting",
+      "meaning": "Good night / sleep well.",
+      "pron": "nee-nee",
+      "ipa": "/niː.niː/",
+      "nsfw": false
+    },
+    {
+      "word": "pōt",
+      "pos": "Adjective",
+      "meaning": "Good / pleasant / pure. Often used for approval or quality.",
+      "pron": "poot",
+      "ipa": "/poːt/",
+      "nsfw": false
+    },
+    {
+      "word": "nyïtz",
+      "pos": "Adjective",
+      "meaning": "Bad / unpleasant / negative. Opposite of pōt.",
+      "pron": "nyeets",
+      "ipa": "/niːts/",
+      "nsfw": false
+    },
+    {
+      "word": "tir-ri",
+      "pos": "Adjective / Verb",
+      "meaning": "Tired / fatigued / sleepy.",
+      "pron": "teer-ree",
+      "ipa": "/tiːr.riː/",
+      "nsfw": false
+    },
+    {
+      "word": "kai-däin",
+      "pos": "Phrase / Adjective",
+      "meaning": "Excited / energized / thrilled.",
+      "pron": "kai-dain",
+      "ipa": "/kaɪ.daɪn/",
+      "nsfw": false
+    },
+    {
+      "word": "lop",
+      "pos": "Adjective",
+      "meaning": "Hot / sexually attractive or warm.",
+      "pron": "lop",
+      "ipa": "/lɒp/",
+      "nsfw": false
+    },
+    {
+      "word": "lopfi",
+      "pos": "Adjective",
+      "meaning": "Cold / not hot, or literally cold.",
+      "pron": "lop-fee",
+      "ipa": "/lɒp.fiː/",
+      "nsfw": false
+    },
+    {
+      "word": "völkä",
+      "pos": "Noun",
+      "meaning": "Friend / companion / ally.",
+      "pron": "vol-kah",
+      "ipa": "/vœl.kɑ/",
+      "nsfw": false
+    },
+    {
+      "word": "träsh-ün",
+      "pos": "Noun / Verb",
+      "meaning": "Fight / to fight / conflict.",
+      "pron": "trash-oon",
+      "ipa": "/træʃ.uːn/",
+      "nsfw": false
+    },
+    {
+      "word": "rën-völkä",
+      "pos": "Phrase",
+      "meaning": "Best friend / close ally.",
+      "pron": "ren vol-kah",
+      "ipa": "/rɛn vœl.kɑ/",
+      "nsfw": false
+    },
+    {
+      "word": "WLAN",
+      "pos": "Noun",
+      "meaning": "Wi-Fi / wireless network.",
+      "pron": "double-u-lan",
+      "ipa": "/vɛl.an/",
+      "nsfw": false
+    },
+    {
+      "word": "BLITLA",
+      "pos": "Noun",
+      "meaning": "Bluetooth / wireless connection.",
+      "pron": "blit-lah",
+      "ipa": "/blɪt.la/",
+      "nsfw": false
+    },
+    {
+      "word": "batterie",
+      "pos": "Noun",
+      "meaning": "Battery / power source.",
+      "pron": "bah-teh-ree",
+      "ipa": "/ˈbɑt.ɛ.ri/",
+      "nsfw": false
+    },
+    {
+      "word": "ackshii",
+      "pos": "Verb / Adjective",
+      "meaning": "On / activated / powered.",
+      "pron": "ack-shee",
+      "ipa": "/akˈʃiː/",
+      "nsfw": false
+    },
+    {
+      "word": "aucksho",
+      "pos": "Verb / Adjective",
+      "meaning": "Off / deactivated / unpowered.",
+      "pron": "owk-sho",
+      "ipa": "/aʊk.ʃoʊ/",
+      "nsfw": false
+    },
+    {
+      "word": "üchi",
+      "pos": "Number",
+      "meaning": "1",
+      "pron": "oo-chee",
+      "ipa": "/uː.tʃi/",
+      "nsfw": false
+    },
+    {
+      "word": "mu",
+      "pos": "Number",
+      "meaning": "2",
+      "pron": "moo",
+      "ipa": "/muː/",
+      "nsfw": false
+    },
+    {
+      "word": "te",
+      "pos": "Number",
+      "meaning": "3",
+      "pron": "teh",
+      "ipa": "/te/",
+      "nsfw": false
+    },
+    {
+      "word": "meku",
+      "pos": "Number",
+      "meaning": "4",
+      "pron": "meh-koo",
+      "ipa": "/me.ku/",
+      "nsfw": false
+    },
+    {
+      "word": "gogo",
+      "pos": "Number",
+      "meaning": "5",
+      "pron": "go-go",
+      "ipa": "/gɔ.gɔ/",
+      "nsfw": false
+    },
+    {
+      "word": "raku",
+      "pos": "Number",
+      "meaning": "6",
+      "pron": "rah-koo",
+      "ipa": "/ɾɑ.ku/",
+      "nsfw": false
+    },
+    {
+      "word": "sahi",
+      "pos": "Number",
+      "meaning": "7",
+      "pron": "sah-hee",
+      "ipa": "/sɑ.hi/",
+      "nsfw": false
+    },
+    {
+      "word": "mochi",
+      "pos": "Number",
+      "meaning": "8",
+      "pron": "mo-chee",
+      "ipa": "/mɔ.tʃi/",
+      "nsfw": false
+    },
+    {
+      "word": "nyuta",
+      "pos": "Number",
+      "meaning": "9",
+      "pron": "nyoo-tah",
+      "ipa": "/ɲu.tɑ/",
+      "nsfw": false
+    },
+    {
+      "word": "susu",
+      "pos": "Number",
+      "meaning": "10",
+      "pron": "soo-soo",
+      "ipa": "/su.su/",
+      "nsfw": false
+    },
+    {
+      "word": "fopper",
+      "pos": "Verb / Noun",
+      "meaning": "Fuck / sexual intercourse (vulgar).",
+      "pron": "fop-per",
+      "ipa": "/fɒp.pɜːr/",
+      "nsfw": true
+    },
+    {
+      "word": "unal",
+      "pos": "Noun",
+      "meaning": "Anal (sexual term).",
+      "pron": "oo-nal",
+      "ipa": "/uː.næl/",
+      "nsfw": true
+    },
+    {
+      "word": "ōrkvalt",
+      "pos": "Noun",
+      "meaning": "Oral sex.",
+      "pron": "ohr-kvalt",
+      "ipa": "/øːɾ.kvɑlt/",
+      "nsfw": true
+    },
+    {
+      "word": "utilly",
+      "pos": "Noun",
+      "meaning": "Pussy / female genitalia.",
+      "pron": "yoo-till-ee",
+      "ipa": "/juː.tɪl.i/",
+      "nsfw": true
+    },
+    {
+      "word": "iitulka",
+      "pos": "Noun",
+      "meaning": "Dick / penis.",
+      "pron": "ee-tool-ka",
+      "ipa": "/iː.tʊl.kɑ/",
+      "nsfw": true
+    },
+    {
+      "word": "quut",
+      "pos": "Adjective / Verb",
+      "meaning": "Erect / standing / aroused.",
+      "pron": "koot",
+      "ipa": "/kʷuːt/",
+      "nsfw": true
+    },
+    {
+      "word": "u-nofu",
+      "pos": "Adjective / Noun",
+      "meaning": "Cute / adorable / charming.",
+      "pron": "oo-noh-foo",
+      "ipa": "/uː.nɔ.fuː/",
+      "nsfw": false
+    },
+    {
+      "word": "wiixii",
+      "pos": "Verb",
+      "meaning": "Masturbate / self-pleasure.",
+      "pron": "wee-xee",
+      "ipa": "/wiːk.siː/",
+      "nsfw": true
+    },
+    {
+      "word": "fön",
+      "pos": "Noun",
+      "meaning": "Phone / mobile device.",
+      "pron": "fuhn",
+      "ipa": "/fœn/",
+      "nsfw": false
+    },
+    {
+      "word": "lapütär",
+      "pos": "Noun",
+      "meaning": "Laptop / computer.",
+      "pron": "lah-poo-tair",
+      "ipa": "/læ.puː.tær/",
+      "nsfw": false
+    },
+    {
+      "word": "skriv",
+      "pos": "Verb",
+      "meaning": "To write / scribble.",
+      "pron": "skriv",
+      "ipa": "/skɹɪv/",
+      "nsfw": false
+    },
+    {
+      "word": "läp",
+      "pos": "Verb",
+      "meaning": "To read / browse.",
+      "pron": "lahp",
+      "ipa": "/læp/",
+      "nsfw": false
+    },
+    {
+      "word": "kaup",
+      "pos": "Noun",
+      "meaning": "Book / publication.",
+      "pron": "kowp",
+      "ipa": "/kaʊp/",
+      "nsfw": false
+    },
+    {
+      "word": "küf",
+      "pos": "Noun",
+      "meaning": "Knife / cutting tool.",
+      "pron": "koof",
+      "ipa": "/kʏf/",
+      "nsfw": false
+    },
+    {
+      "word": "dränk",
+      "pos": "Noun / Verb",
+      "meaning": "Drink / to drink.",
+      "pron": "drank",
+      "ipa": "/dræŋk/",
+      "nsfw": false
+    },
+    {
+      "word": "eät",
+      "pos": "Verb",
+      "meaning": "To eat / consume food.",
+      "pron": "eht",
+      "ipa": "/eːt/",
+      "nsfw": false
+    },
+    {
+      "word": "pœn",
+      "pos": "Interjection",
+      "meaning": "Yes / affirmative / agreement.",
+      "pron": "pehn",
+      "ipa": "/pœn/",
+      "nsfw": false
+    },
+    {
+      "word": "nöa",
+      "pos": "Interjection",
+      "meaning": "No / negative / refusal.",
+      "pron": "no-ah",
+      "ipa": "/noː.ɑ/",
+      "nsfw": false
+    },
+    {
+      "word": "floötz",
+      "pos": "Noun / Adjective",
+      "meaning": "Furry / anthropomorphic creature or person.",
+      "pron": "floots",
+      "ipa": "/fluːts/",
+      "nsfw": false
+    },
+      {
+      "word": "Sänga",
+      "pos": "Noun",
+      "meaning": "January",
+      "pron": "sæŋ-ŋa",
+      "ipa": "/ˈsæŋ.ŋa/",
+      "nsfw": false
+    },
+    {
+      "word": "Löna",
+      "pos": "Noun",
+      "meaning": "February",
+      "pron": "lø-na",
+      "ipa": "/ˈløː.na/",
+      "nsfw": false
+    },
+    {
+      "word": "Däsa",
+      "pos": "Noun",
+      "meaning": "March",
+      "pron": "dæ-sa",
+      "ipa": "/ˈdæ.sa/",
+      "nsfw": false
+    },
+    {
+      "word": "Bäsa",
+      "pos": "Noun",
+      "meaning": "April",
+      "pron": "bæ-sa",
+      "ipa": "/ˈbæ.sa/",
+      "nsfw": false
+    },
+    {
+      "word": "Hlaba",
+      "pos": "Noun",
+      "meaning": "May",
+      "pron": "hla-ba",
+      "ipa": "/ˈɬa.ba/",
+      "nsfw": false
+    },
+    {
+      "word": "Ngulana",
+      "pos": "Noun",
+      "meaning": "June",
+      "pron": "ŋgu-la-na",
+      "ipa": "/ŋguˈla.na/",
+      "nsfw": false
+    },
+    {
+      "word": "Tukazi",
+      "pos": "Noun",
+      "meaning": "July",
+      "pron": "tu-ka-zi",
+      "ipa": "/tuˈka.zi/",
+      "nsfw": false
+    },
+    {
+      "word": "Cwaba",
+      "pos": "Noun",
+      "meaning": "August",
+      "pron": "kʷa-ba",
+      "ipa": "/ˈkʷa.ba/",
+      "nsfw": false
+    },
+    {
+      "word": "Dulo",
+      "pos": "Noun",
+      "meaning": "September",
+      "pron": "du-lo",
+      "ipa": "/ˈdu.lo/",
+      "nsfw": false
+    },
+    {
+      "word": "Fumfu",
+      "pos": "Noun",
+      "meaning": "October",
+      "pron": "fum-fu",
+      "ipa": "/ˈfum.fu/",
+      "nsfw": false
+    },
+    {
+      "word": "Lwezi",
+      "pos": "Noun",
+      "meaning": "November",
+      "pron": "ɬwe-zi",
+      "ipa": "/ˈɬwe.zi/",
+      "nsfw": false
+    },
+    {
+      "word": "Zibandla",
+      "pos": "Noun",
+      "meaning": "December",
+      "pron": "zi-ban-dla",
+      "ipa": "/ziˈban.dla/",
+      "nsfw": false
+    },
+    {
+      "word": "submiš",
+      "pos": "Adjective",
+      "meaning": "Submissive",
+      "pron": "soob-mish",
+      "ipa": "/ˈsuːb.miʃ/",
+      "nsfw": false
+    },
+    {
+      "word": "domrän",
+      "pos": "Adjective",
+      "meaning": "Dominant",
+      "pron": "dom-rahn",
+      "ipa": "/dɔm.ræn/",
+      "nsfw": false
+    },
+    {
+      "word": "wôltmalf",
+      "pos": "Noun",
+      "meaning": "Femboy",
+      "pron": "walt-malf",
+      "ipa": "/woːlt.malf/",
+      "nsfw": false
+    },
+    {
+      "word": "malfwôlt",
+      "pos": "Noun",
+      "meaning": "Tomboy",
+      "pron": "malf-walt",
+      "ipa": "/malf.woːlt/",
+      "nsfw": false
+    },
+    {
+      "word": "frask",
+      "pos": "Noun",
+      "meaning": "Slut",
+      "pron": "frask",
+      "ipa": "/fræsk/",
+      "nsfw": true
+    },
+    {
+      "word": "kräl",
+      "pos": "Noun",
+      "meaning": "Collar",
+      "pron": "krel",
+      "ipa": "/kɹæl/",
+      "nsfw": false
+    },
+    {
+      "word": "fälti",
+      "pos": "Adjective",
+      "meaning": "Obedient",
+      "pron": "fahl-tee",
+      "ipa": "/fælt.i/",
+      "nsfw": false
+    },
+    {
+      "word": "pät",
+      "pos": "Noun",
+      "meaning": "Pet",
+      "pron": "paet",
+      "ipa": "/pæt/",
+      "nsfw": false
+    },
+    {
+      "word": "låfn",
+      "pos": "Noun",
+      "meaning": "Thighs",
+      "pron": "lohf-n",
+      "ipa": "/lɔːfn/",
+      "nsfw": false
+    },
+    {
+      "word": "bänk",
+      "pos": "Noun",
+      "meaning": "Ass",
+      "pron": "bank",
+      "ipa": "/bæŋk/",
+      "nsfw": true
+    },
+    {
+      "word": "tikk",
+      "pos": "Adjective",
+      "meaning": "Thick",
+      "pron": "tick",
+      "ipa": "/tɪk/",
+      "nsfw": false
+    },
+    {
+      "word": "fäti",
+      "pos": "Adjective",
+      "meaning": "Fat",
+      "pron": "fah-tee",
+      "ipa": "/fæ.ti/",
+      "nsfw": false
+    },
+    {
+      "word": "juüs",
+      "pos": "Adjective",
+      "meaning": "Juicy",
+      "pron": "yoos",
+      "ipa": "/juːs/",
+      "nsfw": false
+    },
+    {
+      "word": "ūnddertz",
+      "pos": "Conjunction",
+      "meaning": "And",
+      "pron": "oon-derts",
+      "ipa": "/uːn.dɛrts/",
+      "nsfw": false
+    },
+      {
+      "word": "älli",
+      "pos": "Pronoun",
+      "meaning": "All / everything",
+      "pron": "ahl-lee",
+      "ipa": "/ˈæl.li/",
+      "nsfw": false
+    },
+    {
+      "word": "növi",
+      "pos": "Pronoun",
+      "meaning": "None / nothing",
+      "pron": "noh-vee",
+      "ipa": "/ˈnoː.vi/",
+      "nsfw": false
+    },
+    {
+      "word": "gâra",
+      "pos": "Verb",
+      "meaning": "Go / move",
+      "pron": "gah-rah",
+      "ipa": "/ˈɡɑː.ra/",
+      "nsfw": false
+    },
+    {
+      "word": "wôlti",
+      "pos": "Verb",
+      "meaning": "Walk",
+      "pron": "wolt-tee",
+      "ipa": "/woːl.ti/",
+      "nsfw": false
+    },
+    {
+      "word": "ränku",
+      "pos": "Verb",
+      "meaning": "Run",
+      "pron": "rahn-koo",
+      "ipa": "/ræn.ku/",
+      "nsfw": false
+    },
+    {
+      "word": "slëpi",
+      "pos": "Verb",
+      "meaning": "Sleep / rest",
+      "pron": "sle-pee",
+      "ipa": "/ˈslɛ.pi/",
+      "nsfw": false
+    },
+    {
+      "word": "sïka",
+      "pos": "Verb",
+      "meaning": "See / look / watch",
+      "pron": "see-kah",
+      "ipa": "/ˈsiː.kɑ/",
+      "nsfw": false
+    },
+    {
+      "word": "spëku",
+      "pos": "Verb",
+      "meaning": "Speak / say / tell",
+      "pron": "speh-koo",
+      "ipa": "/ˈspɛ.ku/",
+      "nsfw": false
+    },
+    {
+      "word": "hapri",
+      "pos": "Adjective",
+      "meaning": "Happy / joyful",
+      "pron": "hah-pree",
+      "ipa": "/ˈhæp.ri/",
+      "nsfw": false
+    },
+    {
+      "word": "sadri",
+      "pos": "Adjective",
+      "meaning": "Sad / unhappy",
+      "pron": "sah-dree",
+      "ipa": "/ˈsæd.ri/",
+      "nsfw": false
+    },
+    {
+      "word": "ängrië",
+      "pos": "Adjective",
+      "meaning": "Angry / mad",
+      "pron": "ang-ree-eh",
+      "ipa": "/ˈæŋ.ɡri.e/",
+      "nsfw": false
+    },
+    {
+      "word": "skärdli",
+      "pos": "Adjective",
+      "meaning": "Scared / fearful",
+      "pron": "skaird-lee",
+      "ipa": "/ˈskɛrd.li/",
+      "nsfw": false
+    },
+    {
+      "word": "surpräzë",
+      "pos": "Adjective",
+      "meaning": "Surprised / shocked",
+      "pron": "soor-prah-zay",
+      "ipa": "/sʊrˈpræ.zə/",
+      "nsfw": false
+    },
+    {
+      "word": "bröska",
+      "pos": "Noun",
+      "meaning": "Breasts / chest",
+      "pron": "bro-skah",
+      "ipa": "/brɛs.kɑ/",
+      "nsfw": true
+    },
+    {
+      "word": "händru",
+      "pos": "Noun",
+      "meaning": "Hands",
+      "pron": "han-droo",
+      "ipa": "/hænd.ru/",
+      "nsfw": false
+    },
+    {
+      "word": "fëtan",
+      "pos": "Noun",
+      "meaning": "Feet",
+      "pron": "fet-ahn",
+      "ipa": "/feː.tɑn/",
+      "nsfw": false
+    },
+    {
+      "word": "mövra",
+      "pos": "Noun",
+      "meaning": "Mouth",
+      "pron": "mo-vrah",
+      "ipa": "/ˈmoː.vra/",
+      "nsfw": false
+    },
+    {
+      "word": "ëyza",
+      "pos": "Noun",
+      "meaning": "Eyes",
+      "pron": "ay-zah",
+      "ipa": "/ˈaɪ.zɑ/",
+      "nsfw": false
+    },
+    {
+      "word": "häiri",
+      "pos": "Noun",
+      "meaning": "Hair",
+      "pron": "hi-ree",
+      "ipa": "/ˈheə.ri/",
+      "nsfw": false
+    },
+    {
+      "word": "tälra",
+      "pos": "Noun",
+      "meaning": "Tail",
+      "pron": "tahl-rah",
+      "ipa": "/tɑl.rɑ/",
+      "nsfw": false
+    },
+    {
+      "word": "squishië",
+      "pos": "Adjective",
+      "meaning": "Squishy / soft",
+      "pron": "skwee-shee-eh",
+      "ipa": "/ˈskwiː.ʃi.e/",
+      "nsfw": false
+    },
+      {
+      "word": "bedru",
+      "pos": "Noun",
+      "meaning": "Bed",
+      "pron": "beh-droo",
+      "ipa": "/ˈbɛd.ru/",
+      "nsfw": false
+    },
+    {
+      "word": "chärvin",
+      "pos": "Noun",
+      "meaning": "Chair",
+      "pron": "chair-vin",
+      "ipa": "/ˈtʃɛər.vɪn/",
+      "nsfw": false
+    },
+    {
+      "word": "tabril",
+      "pos": "Noun",
+      "meaning": "Table",
+      "pron": "tah-bril",
+      "ipa": "/ˈtɑː.brɪl/",
+      "nsfw": false
+    },
+    {
+      "word": "shäron",
+      "pos": "Noun",
+      "meaning": "Shirt",
+      "pron": "shah-ron",
+      "ipa": "/ˈʃɑː.rɒn/",
+      "nsfw": false
+    },
+    {
+      "word": "crotopë",
+      "pos": "Noun",
+      "meaning": "Crop top",
+      "pron": "kroh-toh-peh",
+      "ipa": "/ˈkroʊ.tɑ.pe/",
+      "nsfw": false
+    },
+    {
+      "word": "shülan",
+      "pos": "Noun",
+      "meaning": "Shoes",
+      "pron": "shoo-lahn",
+      "ipa": "/ʃuː.lɑn/",
+      "nsfw": false
+    },
+    {
+      "word": "bützar",
+      "pos": "Noun",
+      "meaning": "Boots",
+      "pron": "boot-zar",
+      "ipa": "/buːts.zɑr/",
+      "nsfw": false
+    },
+    {
+      "word": "shürlo",
+      "pos": "Noun",
+      "meaning": "Shorts",
+      "pron": "shoor-lo",
+      "ipa": "/ʃʊr.lo/",
+      "nsfw": false
+    },
+    {
+      "word": "dälfinik",
+      "pos": "Noun",
+      "meaning": "Dolphin shorts",
+      "pron": "dal-fin-ik",
+      "ipa": "/ˈdɑːl.fɪ.nɪk/",
+      "nsfw": false
+    },
+    {
+      "word": "skärtil",
+      "pos": "Noun",
+      "meaning": "Skirt",
+      "pron": "skar-til",
+      "ipa": "/ˈskɑr.tɪl/",
+      "nsfw": false
+    },
+    {
+      "word": "plädskir",
+      "pos": "Noun",
+      "meaning": "Plaid skirt",
+      "pron": "plad-skir",
+      "ipa": "/plæd.skɪr/",
+      "nsfw": false
+    },
+    {
+      "word": "täkko",
+      "pos": "Adjective",
+      "meaning": "Tight",
+      "pron": "tak-ko",
+      "ipa": "/tæk.ko/",
+      "nsfw": false
+    },
+    {
+      "word": "lüssoh",
+      "pos": "Adjective",
+      "meaning": "Loose",
+      "pron": "loo-soh",
+      "ipa": "/ˈluː.so/",
+      "nsfw": false
+    },
+    {
+      "word": "wärdë",
+      "pos": "Noun",
+      "meaning": "Word",
+      "pron": "wehr-deh",
+      "ipa": "/ˈwɛr.dɛ/",
+      "nsfw": false
+    },
+    {
+      "word": "monthar",
+      "pos": "Noun",
+      "meaning": "Month",
+      "pron": "mon-thar",
+      "ipa": "/ˈmʌn.θɑr/",
+      "nsfw": false
+    },
+    {
+      "word": "järvun",
+      "pos": "Noun",
+      "meaning": "Year",
+      "pron": "yar-voon",
+      "ipa": "/ˈjɑr.vuːn/",
+      "nsfw": false
+    },
+    {
+      "word": "därlo",
+      "pos": "Noun",
+      "meaning": "Day",
+      "pron": "dar-lo",
+      "ipa": "/ˈdɑr.lo/",
+      "nsfw": false
+    },
+    {
+      "word": "wëknar",
+      "pos": "Noun",
+      "meaning": "Week",
+      "pron": "week-nar",
+      "ipa": "/wiːk.nɑr/",
+      "nsfw": false
+    },
+    {
+      "word": "våtril",
+      "pos": "Noun",
+      "meaning": "Water",
+      "pron": "vah-tril",
+      "ipa": "/ˈvɑː.trɪl/",
+      "nsfw": false
+    },
+    {
+      "word": "präkumë",
+      "pos": "Noun",
+      "meaning": "Pre-cum",
+      "pron": "pra-koo-meh",
+      "ipa": "/preɪ.kuː.me/",
+      "nsfw": true
+    },
+    {
+      "word": "kümel",
+      "pos": "Noun",
+      "meaning": "Cum / semen",
+      "pron": "koo-mel",
+      "ipa": "/kuː.mɛl/",
+      "nsfw": true
+    },
+    {
+      "word": "lübri",
+      "pos": "Noun",
+      "meaning": "Lube",
+      "pron": "loo-bree",
+      "ipa": "/luː.bri/",
+      "nsfw": true
+    },
+    {
+      "word": "sömral",
+      "pos": "Noun",
+      "meaning": "Summer",
+      "pron": "som-ral",
+      "ipa": "/ˈsʌm.rɑl/",
+      "nsfw": false
+    },
+    {
+      "word": "wïntel",
+      "pos": "Noun",
+      "meaning": "Winter",
+      "pron": "win-tel",
+      "ipa": "/ˈwɪn.tɛl/",
+      "nsfw": false
+    },
+    {
+      "word": "mörninga",
+      "pos": "Noun",
+      "meaning": "Morning",
+      "pron": "mor-ning-ah",
+      "ipa": "/ˈmɔːr.nɪŋ.ɑ/",
+      "nsfw": false
+    },
+    {
+      "word": "aftönar",
+      "pos": "Noun",
+      "meaning": "Afternoon",
+      "pron": "af-toh-nar",
+      "ipa": "/æfˈtoʊ.nɑr/",
+      "nsfw": false
+    },
+    {
+      "word": "dänäit",
+      "pos": "Noun",
+      "meaning": "Day/Night",
+      "pron": "dah-nite",
+      "ipa": "/dɑː.naɪt/",
+      "nsfw": false
+    },
+    {
+      "word": "örnil",
+      "pos": "Conjunction",
+      "meaning": "Or",
+      "pron": "or-nil",
+      "ipa": "/ɔːr.nɪl/",
+      "nsfw": false
+    },
+    {
+      "word": "büttar",
+      "pos": "Conjunction",
+      "meaning": "But",
+      "pron": "boot-tar",
+      "ipa": "/bʊt.tɑr/",
+      "nsfw": false
+    },
+    {
+      "word": "bikauzë",
+      "pos": "Conjunction",
+      "meaning": "Because",
+      "pron": "bee-kow-zeh",
+      "ipa": "/bɪˈkaʊ.zɛ/",
+      "nsfw": false
+    },
+    {
+      "word": "wëthout",
+      "pos": "Preposition",
+      "meaning": "Without",
+      "pron": "weh-thout",
+      "ipa": "/wɪθˈaʊt/",
+      "nsfw": false
+    },
+    {
+      "word": "frammel",
+      "pos": "Preposition",
+      "meaning": "From",
+      "pron": "fram-mel",
+      "ipa": "/fræmˈmɛl/",
+      "nsfw": false
+    },
+    {
+      "word": "töllen",
+      "pos": "Preposition",
+      "meaning": "To",
+      "pron": "toh-len",
+      "ipa": "/toː.lɛn/",
+      "nsfw": false
+    },
+    {
+      "word": "ättun",
+      "pos": "Preposition",
+      "meaning": "At",
+      "pron": "ah-tun",
+      "ipa": "/æt.ʊn/",
+      "nsfw": false
+    },
+    {
+      "word": "ïnvar",
+      "pos": "Preposition",
+      "meaning": "In",
+      "pron": "in-var",
+      "ipa": "/ɪn.vɑr/",
+      "nsfw": false
+    },
+    {
+      "word": "önlar",
+      "pos": "Preposition",
+      "meaning": "On",
+      "pron": "on-lar",
+      "ipa": "/ɔn.lɑr/",
+      "nsfw": false
+    },
+    {
+      "word": "bänkû",
+      "pos": "Noun",
+      "meaning": "Booty / buttocks",
+      "pron": "bank-oo",
+      "ipa": "/bæŋ.kuː/",
+      "nsfw": true
+    },
+    {
+      "word": "ärmäl",
+      "pos": "Noun",
+      "meaning": "Arms",
+      "pron": "air-mal",
+      "ipa": "/ɑːrm.æl/",
+      "nsfw": false
+    },
+    {
+      "word": "lëgrun",
+      "pos": "Noun",
+      "meaning": "Legs",
+      "pron": "leh-grun",
+      "ipa": "/lɛɡ.run/",
+      "nsfw": false
+    },
+    {
+      "word": "bällum",
+      "pos": "Noun",
+      "meaning": "Balls / testis",
+      "pron": "bal-lum",
+      "ipa": "/bæl.lʊm/",
+      "nsfw": true
+    },
+    {
+      "word": "ërrunë",
+      "pos": "Noun",
+      "meaning": "Ears",
+      "pron": "air-ru-neh",
+      "ipa": "/ɛr.ru.nɛ/",
+      "nsfw": false
+    },
+    {
+      "word": "grôthu",
+      "pos": "Noun",
+      "meaning": "Growth",
+      "pron": "groh-thoo",
+      "ipa": "/ɡroʊ.θuː/",
+      "nsfw": false
+    },
+    {
+      "word": "tëntro",
+      "pos": "Noun",
+      "meaning": "Tentacles",
+      "pron": "ten-tro",
+      "ipa": "/ˈtɛn.tro/",
+      "nsfw": false
+    },
+    {
+      "word": "ëxpanzë",
+      "pos": "Noun / Verb",
+      "meaning": "Expansion / enlarge",
+      "pron": "ek-span-zeh",
+      "ipa": "/ɛkˈspæn.ze/",
+      "nsfw": false
+    },
+    {
+      "word": "knotval",
+      "pos": "Noun",
+      "meaning": "Knot (NSFW tie / BDSM)",
+      "pron": "knot-val",
+      "ipa": "/nɒt.vɑl/",
+      "nsfw": true
+    },
+    {
+      "word": "thrôbën",
+      "pos": "Verb / Adjective",
+      "meaning": "Throb / pulsate",
+      "pron": "thro-ben",
+      "ipa": "/θrɒ.bɛn/",
+      "nsfw": true
+    },
+      {
+      "word": "vërliqa",
+      "pos": "Adverb",
+      "meaning": "Quickly",
+      "pron": "ver-lee-kah",
+      "ipa": "/ˈvɛr.li.kɑ/",
+      "nsfw": false
+    },
+    {
+      "word": "slomiru",
+      "pos": "Adverb",
+      "meaning": "Slowly",
+      "pron": "slo-mee-roo",
+      "ipa": "/sloˈmi.ru/",
+      "nsfw": false
+    },
+    {
+      "word": "gentara",
+      "pos": "Adverb",
+      "meaning": "Gently",
+      "pron": "jen-tah-rah",
+      "ipa": "/ˈdʒɛn.tɑ.rɑ/",
+      "nsfw": false
+    },
+    {
+      "word": "rûvnak",
+      "pos": "Adverb",
+      "meaning": "Roughly",
+      "pron": "roov-nahk",
+      "ipa": "/ˈruːv.nɑk/",
+      "nsfw": false
+    },
+    {
+      "word": "nüova",
+      "pos": "Adverb",
+      "meaning": "Now",
+      "pron": "nyoo-vah",
+      "ipa": "/njuː.ˈo.vɑ/",
+      "nsfw": false
+    },
+    {
+      "word": "lätaru",
+      "pos": "Adverb",
+      "meaning": "Later",
+      "pron": "lah-tah-roo",
+      "ipa": "/ˈlɑ.tɑ.ru/",
+      "nsfw": false
+    },
+    {
+      "word": "älvra",
+      "pos": "Adverb",
+      "meaning": "Always",
+      "pron": "ahl-vrah",
+      "ipa": "/ˈæl.vrɑ/",
+      "nsfw": false
+    },
+    {
+      "word": "nevrin",
+      "pos": "Adverb",
+      "meaning": "Never",
+      "pron": "nev-rin",
+      "ipa": "/ˈnɛv.rɪn/",
+      "nsfw": false
+    },
+    {
+      "word": "sômtari",
+      "pos": "Adverb",
+      "meaning": "Sometimes",
+      "pron": "sohm-tah-ree",
+      "ipa": "/ˈsɔm.tɑ.ri/",
+      "nsfw": false
+    },
+    {
+      "word": "embärin",
+      "pos": "Adjective",
+      "meaning": "Embarrassed",
+      "pron": "em-bah-rin",
+      "ipa": "/ɛmˈbɑr.ɪn/",
+      "nsfw": false
+    },
+    {
+      "word": "shyma",
+      "pos": "Adjective",
+      "meaning": "Shy",
+      "pron": "shy-mah",
+      "ipa": "/ʃaɪˈmɑ/",
+      "nsfw": false
+    },
+    {
+      "word": "horniv",
+      "pos": "Adjective",
+      "meaning": "Horny",
+      "pron": "hor-neev",
+      "ipa": "/ˈhɔr.niv/",
+      "nsfw": true
+    },
+    {
+      "word": "exciro",
+      "pos": "Adjective",
+      "meaning": "Excited",
+      "pron": "ex-see-roh",
+      "ipa": "/ɛkˈsi.ro/",
+      "nsfw": false
+    },
+    {
+      "word": "scärdin",
+      "pos": "Adjective",
+      "meaning": "Scared",
+      "pron": "skar-din",
+      "ipa": "/ˈskɑr.dɪn/",
+      "nsfw": false
+    },
+    {
+      "word": "calmri",
+      "pos": "Adjective",
+      "meaning": "Calm",
+      "pron": "kahlm-ree",
+      "ipa": "/kɑlmˈri/",
+      "nsfw": false
+    },
+    {
+      "word": "tirel",
+      "pos": "Adjective",
+      "meaning": "Tired / fatigued / sleepy",
+      "pron": "tee-rel",
+      "ipa": "/ˈtiː.rel/",
+      "nsfw": false
+    },
+    {
+      "word": "boreli",
+      "pos": "Adjective",
+      "meaning": "Bored",
+      "pron": "bo-reh-lee",
+      "ipa": "/ˈbɔr.ɛ.li/",
+      "nsfw": false
+    },
+    {
+      "word": "throbin",
+      "pos": "Verb / Adjective",
+      "meaning": "Throb",
+      "pron": "throh-bin",
+      "ipa": "/θrɒbˈɪn/",
+      "nsfw": true
+    },
+    {
+      "word": "lickri",
+      "pos": "Verb",
+      "meaning": "Lick",
+      "pron": "lick-ree",
+      "ipa": "/lɪk.ri/",
+      "nsfw": true
+    },
+    {
+      "word": "sukrin",
+      "pos": "Verb",
+      "meaning": "Suck",
+      "pron": "suk-rin",
+      "ipa": "/sʌk.rɪn/",
+      "nsfw": true
+    },
+    {
+      "word": "bendri",
+      "pos": "Verb",
+      "meaning": "Bend",
+      "pron": "ben-dree",
+      "ipa": "/bɛn.dri/",
+      "nsfw": false
+    },
+    {
+      "word": "rübar",
+      "pos": "Verb",
+      "meaning": "Rub",
+      "pron": "roo-bar",
+      "ipa": "/ruː.bɑr/",
+      "nsfw": true
+    },
+    {
+      "word": "moanvi",
+      "pos": "Verb",
+      "meaning": "Moan",
+      "pron": "moh-an-vee",
+      "ipa": "/moʊˈæn.vi/",
+      "nsfw": true
+    },
+    {
+      "word": "wetari",
+      "pos": "Verb / Adjective",
+      "meaning": "Wet",
+      "pron": "weh-tah-ree",
+      "ipa": "/wɛˈtɑ.ri/",
+      "nsfw": true
+    },
+        {
+          "word": "tälranet",
+          "pos": "Noun",
+          "meaning": "Fishnet / net-like fabric or garment.",
+          "pron": "tah-lrah-net",
+          "ipa": "/tɑl.raˈnɛt/",
+          "nsfw": false
+      },
+      {
+          "word": "låfnshülan",
+          "pos": "Noun",
+          "meaning": "Thigh highs / stockings that extend to the thighs.",
+          "pron": "lohf-n-shoo-lahn",
+          "ipa": "/lɔːfn.ʃuː.lɑn/",
+          "nsfw": false
+      },
+      {
+          "word": "ärmälwärmer",
+          "pos": "Noun",
+          "meaning": "Arm warmers / sleeves or coverings for the arms.",
+          "pron": "air-mal-wehr-mer",
+          "ipa": "/ɑːrm.ælˈvɛr.mɜr/",
+          "nsfw": false
+      },
+      {
+          "word": "händrük",
+          "pos": "Noun",
+          "meaning": "Gloves / hand coverings.",
+          "pron": "han-drook",
+          "ipa": "/hændˈrʏk/",
+          "nsfw": false
+      },
+      {
+          "word": "häubshür",
+          "pos": "Noun",
+          "meaning": "Hoodie / a sweatshirt with a hood.",
+          "pron": "hi-ub-shoor",
+          "ipa": "/hɔɪb.ʃʊr/",
+          "nsfw": false
+      },
+      {
+      "word": "frëlk",
+      "pos": "Verb",
+      "meaning": "To push forward or thrust ahead with quick, focused force.",
+      "pron": "freh-lk",
+      "ipa": "/fɹɛlk/",
+      "nsfw": false
+      },
+      {
+      "word": "vřäk",
+      "pos": "Verb",
+      "meaning": "To perform an intimate, forceful sexual thrust.",
+      "pron": "vrehk",
+      "ipa": "/vɹɛk/",
+      "nsfw": true
+      },
+      {
+      "word": "hrëdë",
+      "pos": "Adjective",
+      "meaning": "Hard / firm / solid",
+      "pron": "hreh-deh",
+      "ipa": "/hɹɛˈdɛ/",
+      "nsfw": false
+      },
+      {
+      "word": "flëshi",
+      "pos": "Verb / Adjective",
+      "meaning": "To blush / flushed / rosy-cheeked",
+      "pron": "fleh-shee",
+      "ipa": "/flɛˈʃi/",
+      "nsfw": false
+      },
+      {
+      "word": "grôrn",
+      "pos": "Verb / Noun",
+      "meaning": "To growl / a low, guttural vocalization, usually expressing anger or warning.",
+      "pron": "grohn",
+      "ipa": "/ɡroːrn/",
+      "nsfw": false
+      },
+      {
+    "word": "rakr",
+    "pos": "Noun",
+    "meaning": "Program, script, or code; a written set of instructions that makes a system perform actions or logic.",
+    "pron": "rak-keer",
+    "ipa": "/ˈræk.kɪɹ/",
+    "nsfw": false
+      },
+      {
+      "word": "keh",
+      "pos": "Noun",
+      "meaning": "Keyboard; a physical or digital input device used for typing characters, commands, or symbols.",
+      "pron": "keh",
+      "ipa": "/kɛ/",
+      "nsfw": false
+      },
+      {
+      "word": "passa",
+      "pos": "Verb / Noun",
+      "meaning": "To pass; to move beyond, transfer, allow through, or succeed in completion. As a noun: a pass, clearance, or successful attempt.",
+      "pron": "pas-sah",
+      "ipa": "/ˈpɑs.sɑ/",
+      "nsfw": false
+      }
+  ]
+  
+  
+  

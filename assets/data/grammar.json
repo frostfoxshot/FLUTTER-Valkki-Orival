@@ -1,0 +1,72 @@
+[
+    {
+      "title": "Phonology",
+      "blocks": [
+        {
+          "summary": "Consonant Inventory",
+          "open": true,
+          "content": "<table>\n          <tr><th></th><th>Plosive</th><th>Fricative</th><th>Nasal</th><th>Approximant</th><th>Affricate</th></tr>\n          <tr><td>Labial</td><td>p b</td><td>f v</td><td>m</td><td>w</td><td>—</td></tr>\n          <tr><td>Alveolar</td><td>t d</td><td>s z</td><td>n</td><td>l r [ɾ]</td><td>ts</td></tr>\n          <tr><td>Palatal</td><td>—</td><td>š ⟨ʃ⟩ ž ⟨ʒ⟩</td><td>—</td><td>y ⟨j⟩</td><td>č ⟨tʃ⟩ j ⟨dʒ⟩</td></tr>\n          <tr><td>Velar</td><td>k g</td><td>—</td><td>ŋ</td><td>—</td><td>—</td></tr>\n          <tr><td>Glottal</td><td>ʔ</td><td>h</td><td>—</td><td>—</td><td>—</td></tr>\n        </table>"
+        },
+        {
+          "summary": "Vowel Inventory & Diphthongs",
+          "open": true,
+          "content": "<table>\n          <tr><th></th><th>Front</th><th>Central</th><th>Back</th></tr>\n          <tr><td>Close</td><td>i y</td><td>—</td><td>u ü</td></tr>\n          <tr><td>Mid</td><td>e ø</td><td>—</td><td>o ö</td></tr>\n          <tr><td>Open</td><td>æ ⟨a⟩</td><td>—</td><td>ɑ ⟨ā⟩</td></tr>\n        </table>\n        <p><strong>Diphthongs:</strong> ai, ei, au, ae, öe, üe, oi<br>\n           <strong>Long vowels:</strong> ā ē ī ō ū</p>"
+        },
+        {
+          "summary": "Phonotactics & Stress",
+          "open": false,
+          "content": "<p><strong>Syllable structure:</strong> (C)(C)V(C)<br>\n                 <strong>Allowed clusters:</strong> fl, vr, kr, st, wl, wr, tr, etc.<br>\n                 <strong>Stress:</strong> usually penultimate<br>\n                 <strong>Glottal stop ʔ:</strong> inserted before vowel-initial words in careful/formal speech.</p>"
+        }
+      ]
+    },
+    {
+      "title": "Dialects",
+      "blocks": [
+        {
+          "summary": "Örival-Standard vs Välkki-Häen",
+          "open": true,
+          "content": "<table>\n          <tr><th>Dialect</th><th>Style</th><th>Key Features</th></tr>\n          <tr><td>Örival-Standard</td><td>Formal / Written</td><td>Full consonants, clear glottal stops, careful vowel length</td></tr>\n          <tr><td>Välkki-Häen</td><td>Casual / Spoken</td><td>Drops final consonants, vowel blending (e.g. däi-dën → däy’n), faster rhythm</td></tr>\n        </table>"
+        }
+      ]
+    },
+    {
+      "title": "Core Grammar",
+      "blocks": [
+        {
+          "summary": "Word Order",
+          "open": true,
+          "content": "<p>Default: <strong>SVO</strong> (Subject – Verb – Object)</p>\n                 <div class=\"example\">Nä jś pōt. → <em>I am good.</em><br><span class=\"ipa\">/nɑː jʃ poːt/</span></div>"
+        },
+        {
+          "summary": "Pronouns",
+          "open": true,
+          "content": "<table>\n          <tr><th></th><th>Singular</th><th>Plural / Neutral</th><th>Notes</th></tr>\n          <tr><td>1st</td><td>nä</td><td>oöshkëy</td><td>/nɑː/ · /uːʃ.keɪ/ (Häen: /ʊʃ.kiː/)</td></tr>\n          <tr><td>2nd / plural</td><td>säe</td><td>säe</td><td>/sɑː.eɪ/ — used for both “you (sg)” and any plural</td></tr>\n          <tr><td>3rd masc</td><td>malf</td><td>säe</td><td>/malf/</td></tr>\n          <tr><td>3rd fem</td><td>wôlt</td><td>säe</td><td>/woːlt/ (formal) /wolt/ (Häen)</td></tr>\n        </table>"
+        },
+        {
+          "summary": "Negation, Questions & Verb Modifiers",
+          "open": true,
+          "content": "<p><strong>Negation:</strong> prefix <strong>n-</strong> to the verb<br>\n           → Nä <strong>n-jś</strong> pōt. (I am not good.)</p>\n           \n           <p><strong>Questions:</strong> add particle <strong>ka</strong> or rising intonation<br>\n           → Säe jś pōt <strong>ka</strong>? (Are you good?)</p>\n           \n           <p><strong>Progressive / \"-ing\" form:</strong> add <strong>ehv</strong> to the verb stem<br>\n           → Nä eät → Nä eätehv (I am eating.)<br>\n           → Säe dränk → Säe dränkehv (You are drinking.)<br>\n           → Frëlk → Frëlkehv (Thrusting / pushing forward.)</p>"
+        }
+      ]
+    },
+    {
+      "title": "Sample Sentences",
+      "blocks": [
+        {
+          "summary": "Everyday Examples",
+          "open": true,
+          "content": "<table>\n        <tr><th>Välkki-Örival</th><th>English</th><th>Literal Meaning</th><th>Notes</th></tr>\n        <tr><td>Nä jś pōt.</td><td>I am good.</td><td>I is good.</td><td>Basic affirmative</td></tr>\n        <tr><td>Nä n-jś pōt.</td><td>I am not good.</td><td>I not-is good.</td><td>Negation</td></tr>\n        <tr><td>Säe jś pōt ka?</td><td>Are you okay?</td><td>You is good ?</td><td>Question with ka</td></tr>\n        <tr><td>Hai-ëe!</td><td>Hello!</td><td>(greeting particle)</td><td>Universal greeting</td></tr>\n        <tr><td>Wïeder-luft.</td><td>Goodbye.</td><td>Again-air.</td><td>Lit. “see you in the air again”</td></tr>\n        <tr><td>Säe wee-rär.</td><td>I love you. / You are loved.</td><td>You love-(affectionate)</td><td>Very common romantic phrase</td></tr>\n        <tr><td>Nä tir-ri.</td><td>I’m tired.</td><td>I tired.</td><td>No copula needed for adjectives of state</td></tr>\n        <tr><td>Säe jś lop ka?</td><td>Are you hot?</td><td>You is hot ?</td><td>Casual / neutral context</td></tr>\n        <tr><td>Oöshkëy jś völkä.</td><td>We are friends.</td><td>We is friend.</td><td>Inclusive we</td></tr>\n        <tr><td>Nini, frimalf.</td><td>Good night, boyfriend.</td><td>Sleep-well, boyfriend.</td><td>Sweet dreams</td></tr>\n        <tr><td>Nä däi-dën.</td><td>I’m flustered / in love.</td><td>I love-struck.</td><td>Romantic emotion</td></tr>\n        <tr><td>Nä eät bök.</td><td>I eat a book.</td><td>I eat book.</td><td>Literal / humorous example</td></tr>\n        <tr><td>Nä eät ehv bök.</td><td>I am eating a book.</td><td>I eat-ing book.</td><td>Continuous action (-ehv)</td></tr>\n        <tr><td>Säe dränk ehv ka?</td><td>Are you drinking?</td><td>You drink-ing ?</td><td>Continuous action</td></tr>\n        <tr><td>Nä rëäd ehv bök.</td><td>I am reading a book.</td><td>I read-ing book.</td><td>Continuous action</td></tr>\n        <tr><td>Säe flëshi ehv ka?</td><td>Are you blushing?</td><td>You blush-ing ?</td><td>Expressing embarrassment</td></tr>\n        <tr><td>Nä hrëdë bänk.</td><td>My butt is firm.</td><td>I hard ass.</td><td>Safe context — describing firmness, not sexual</td></tr>\n        <tr><td>Nä frëlk ehv skriv.</td><td>I am thrusting forward in writing.</td><td>I thrust-ing write.</td><td>Neutral / SFW thrust</td></tr>\n        <tr><td>Säe pley ehv jöy.</td><td>You are playing joyfully.</td><td>You play-ing joy.</td><td>Fun / casual action</td></tr>\n      </table>"
+        }
+      ]
+    },
+    {
+      "title": "NSFW Corner (toggle if you dare)",
+      "blocks": [
+        {
+          "summary": "Spicy Examples",
+          "open": false,
+          "content": "<table>\n          <tr><th>Välkki-Örival</th><th>English</th><th>Literal Meaning</th></tr>\n          <tr><td>Säe lop.</td><td>You’re hot.</td><td>You hot.</td></tr>\n          <tr><td>Nä quut.</td><td>I’m hard / aroused.</td><td>I erect.</td></tr>\n          <tr><td>Säe ōrkvalt pōt.</td><td>Your oral is good.</td><td>You oral good.</td></tr>\n          <tr><td>Fopper mä?</td><td>Fuck me?</td><td>Fuck me?</td></tr>\n          <tr><td>Nä fopper.</td><td>I’m fucking.</td><td>I fuck.</td></tr>\n          <tr><td>Säe iitulka jś wetari.</td><td>Your dick is wet.</td><td>You penis is wet.</td></tr>\n          <tr><td>Nä sukri hrëdë.</td><td>I suck hard.</td><td>I suck firm.</td></tr>\n          <tr><td>Säe utilly jś ōrkvalt.</td><td>Your pussy is good for oral.</td><td>You pussy is oral-good.</td></tr>\n          <tr><td>Fopper dränk ehv?</td><td>Want to fuck while drinking?</td><td>Fuck drink-ing?</td></tr>\n          <tr><td>Nä thrôbën jś hrëdë.</td><td>My cock is throbbing hard.</td><td>My throbbing is firm.</td></tr>\n          <tr><td>Säe lickri hrëdë.</td><td>Lick me hard.</td><td>Lick me firm.</td></tr>\n          <tr><td>Nä bendri o-o.</td><td>I bend over.</td><td>I bend over.</td></tr>\n          <tr><td>Säe bendri jś pät.</td><td>Bend over for me, pet.</td><td>Bend for me pet.</td></tr>\n          <tr><td>Nä rübar dränk.</td><td>I rub while drinking.</td><td>I rub drink.</td></tr>\n          <tr><td>Säe moanvi ehv!</td><td>Moan while doing it!</td><td>Moan-ing!</td></tr>\n          <tr><td>Nä wetari hrëdë.</td><td>I’m wet and hard.</td><td>I wet firm.</td></tr>\n          <tr><td>Säe lickri hrëdë thrôbën.</td><td>Lick me hard while I throb.</td><td>Lick firm throbbing.</td></tr>\n          <tr><td>Nä sukri jś hrëdë.</td><td>I suck you hard.</td><td>I suck firm.</td></tr>\n          <tr><td>Säe bendri pät hrëdë.</td><td>Bend over, pet, hard.</td><td>Bend pet firm.</td></tr>\n          <tr><td>Nä thrôbën dränk ehv.</td><td>Throbbing while drinking.</td><td>Throb drink-ing.</td></tr>\n          <tr><td>Säe lickri dränk ehv!</td><td>Lick me while drinking!</td><td>Lick drink-ing.</td></tr>\n          <tr><td>Nä fopper o-o hrëdë.</td><td>I fuck hard.</td><td>I fuck firm.</td></tr>\n        </table>"
+        }
+      ]
+    }
+  ]

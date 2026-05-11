@@ -1,0 +1,18 @@
+# Standard Flutter gitignore
+**/doc/api/
+.dart_tool/
+.packages
+build/
+*.iml
+*.lock
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+*.iws
+.idea/
+.vscode/settings.json
