@@ -18,7 +18,7 @@ class ValkkiApp extends StatelessWidget {
       ),
       darkTheme: ThemeData(
         useMaterial3: true,
-        colorSchemeSeed: Colors.indigo,
+        colorSchemeSeed: Colors.red,
         brightness: Brightness.dark,
       ),
       themeMode: ThemeMode.system,
